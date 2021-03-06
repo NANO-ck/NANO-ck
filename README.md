@@ -1,15 +1,13 @@
 # 👋🏻 Welcome!
 **I'm NANO**
 
-*I'm a producer, developer, programmer, and editor from California.*
-Here is some info about me..
+*I'm a developer from Paris*
 
-- ✏️ - I like to draw
-- 🛹 - I like to skate a lot
-- 🖥️ - I spend most of my free time coding
-- 🤔 - I usually do Discord bots and HTML websites for coding
-- 🥱 - I only know three coding languages, HTML/CSS, Javascript, and Python! (The Mains)
-- ✅ - I am currently still learning Python, and if you need any help, DM me on Discord!
+»┊ I like to do Mountain Bike
+»┊ I would rather code than play
+»┊ I usually code Discord bots and softwares to replace me in boring tasks
+»┊ I only know three coding languages, Javascript, Lua (used in roblox studio), and Python
+»┊ I am learning HTML in order to make my website!
 
 ![NANO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NANO-ck&count_private=true&show_icons=true&theme=nightowl)
 
