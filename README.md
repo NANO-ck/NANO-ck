@@ -3,11 +3,15 @@
 
 *I'm a developer from Paris*
 
-»┊ I like to do Mountain Bike\n
-»┊ I would rather code than play\n
-»┊ I usually code Discord bots and softwares to replace me in boring tasks\n
-»┊ I only know three coding languages, Javascript, Lua (used in roblox studio), and Python\n
-»┊ I am learning HTML in order to make my website!\n
+»┊ I like to do Mountain Bike
+
+»┊ I would rather code than play
+
+»┊ I usually code Discord bots and softwares to replace me in boring tasks
+
+»┊ I only know three coding languages, Javascript, Lua (used in roblox studio), and Python
+
+»┊ I am learning HTML in order to make my website!
 
 ![NANO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NANO-ck&count_private=true&show_icons=true&theme=nightowl)
 
