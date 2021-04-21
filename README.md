@@ -9,11 +9,12 @@
 
 »┊ I would rather code than play
 
+»┊ I'm using most of my time to code my discord bot ( https://dsc.gg/nano )
+
 »┊ I usually code Discord bots and softwares to replace me in boring tasks
 
 »┊ I only know three coding languages, Javascript, Lua (used in roblox studio), and Python
 
-»┊ I am learning HTML in order to make my website!
 
 ![NANO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NANO-ck&count_private=true&show_icons=true&theme=nightowl) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NANO-ck&theme=nightowl)
 
