@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://discord.c99.nl/widget/theme-3/817118312898756608.png" width="590" heigth="160" alt="Discord" /> </h1>
+<h1 align="center"> <img src="https://discord.c99.nl/widget/theme-3/817118312898756608.png" width="885" heigth="220" alt="Discord" /> </h1>
 
 # 👋🏻 Welcome!
 **I'm NANO**
