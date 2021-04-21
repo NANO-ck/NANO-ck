@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/817118312898756608.png" alt="Discord" /> </p>
+
 # 👋🏻 Welcome!
 **I'm NANO**
 
