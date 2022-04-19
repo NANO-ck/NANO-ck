@@ -9,7 +9,7 @@
 
 »┊ I would rather code than play
 
-»┊ I'm using most of my time to code my discord bot ( https://dsc.gg/nano )
+»┊ I'm using most of my time to code my discord bot ( https://nexion.xyz )
 
 »┊ I usually code Discord bots and softwares to replace me in boring tasks
 
