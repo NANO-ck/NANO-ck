@@ -3,17 +3,13 @@
 # 👋🏻 Welcome!
 **I'm NANO**
 
-*I'm a developer from Paris*
+*A developer from Paris*
 
-»┊ I like to do Mountain Bike
-
-»┊ I would rather code than play
-
-»┊ I'm using most of my time to code my discord bot ( https://nexion.xyz )
+»┊ I'm using most of my time to code my discord bot ( https://nexion.xyz ) or other projects, mainly based on Node.Js
 
 »┊ I usually code Discord bots and softwares to replace me in boring tasks
 
-»┊ I only know three coding languages, Javascript, Lua (used in roblox studio), and Python
+»┊ What do I prefer? Javascript, Node.Js, React, discord.js, Lua, Python, Web dev...
 
 
 ![NANO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NANO-ck&count_private=true&show_icons=true&theme=nightowl) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NANO-ck&theme=nightowl)
